@@ -1,0 +1,128 @@
+{
+ "D:\\01\\practice\\2.node\\test.min": [
+  {
+   "rw": []
+  },
+  {
+   "6.tree": [
+    "index.2.js",
+    "index.js",
+    "index.sync.js",
+    "test.2.json",
+    "test.json",
+    "test.sync.json"
+   ]
+  },
+  {
+   "5.创建服务器": [
+    "index.html",
+    "mini-server-1.js",
+    "mini-server.js"
+   ]
+  },
+  {
+   "4.书签xml解析": [
+    "bookmark.xml",
+    "index.js",
+    "urlOut.html"
+   ]
+  },
+  {
+   "3.iconfontSvg处理": [
+    "dealSVG.async.js",
+    "dealSVG.js",
+    {
+     "temp": [
+      "iconfont.temp.js",
+      "lx-bill.svg",
+      "lx-business.svg"
+     ]
+    },
+    {
+     "dist2": [
+      "demo_symbol.html",
+      "iconfont.js"
+     ]
+    },
+    {
+     "dist": [
+      "demo_symbol.html",
+      "iconfont.js"
+     ]
+    }
+   ]
+  },
+  {
+   "2.命令行": [
+    "getUserInput.js",
+    "读取node.js命令行输入内容的小工具.js",
+    {
+     "交互": [
+      {
+       "width commander": [
+        "test.js"
+       ]
+      },
+      {
+       "simple": [
+        "prompt.js",
+        "readme.txt",
+        "test.js"
+       ]
+      }
+     ]
+    },
+    {
+     "ming": [
+      "ming.js",
+      "package.json"
+     ]
+    }
+   ]
+  },
+  {
+   "2.test.module.export": [
+    "a.js",
+    "b.js"
+   ]
+  },
+  {
+   "2.school-关于模块": [
+    "index.js",
+    "klass.js",
+    "student.js",
+    "teacher.js"
+   ]
+  },
+  {
+   "1.fs.practice": [
+    "000.js",
+    "change_end.js",
+    "event.js",
+    "file.js",
+    "get-file-size.js",
+    "a.jscsrc",
+    "get-jpg-of-file.js",
+    "Global .js",
+    "JSON.js",
+    "read_wtite_json.js",
+    "get-jpg-of-file - 副本.js",
+    {
+     "temp": [
+      "fstest1510",
+      "json2.json",
+      "message.txt",
+      "message2.txt",
+      "json.json",
+      "my_file1.txt",
+      "test.out.txt",
+      "test.txt",
+      "test1.txt",
+      "test2.txt",
+      "my_file.txt"
+     ]
+    }
+   ]
+  }
+ ]
+}

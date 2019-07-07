@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>IconFont</title>
+    <script src="iconfont.js"></script>
+    <style type="text/css">
+        .icon:hover {
+            color: red;
+            font-size: 40px;
+        }
+        .icon {
+            /* 通过设置 font-size 来改变图标大小 */
+            width: 1em;
+            height: 1em;
+            /* 图标和文字相邻时，垂直对齐 */
+            vertical-align: -0.15em;
+            /* 通过设置 color 来改变 SVG 的颜色/fill */
+            fill: currentColor;
+            /* path 和 stroke 溢出 viewBox 部分在 IE 下会显示
+               normalize.css 中也包含这行 */
+            overflow: hidden;
+        }
+
+        .test{
+            width: 100px;
+            height: 200px;
+            background: url("#lx-business");
+        }
+
+    </style>
+</head>
+<body>
+<h1>IconFont 图标</h1>
+
+<svg class="icon" aria-hidden="true">
+    <use xlink:href="#lx-bill"></use>
+</svg>
+
+<svg class="icon" aria-hidden="true">
+    <use xlink:href="#lx-business"></use>
+</svg>
+
+<svg class="icon" aria-hidden="true">
+    <use xlink:href="#icon-xinxi"></use>
+</svg>
+
+<div class="test"></div>
+</body>
+</html>

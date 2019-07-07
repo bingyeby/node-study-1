@@ -1,0 +1,455 @@
+{
+ "name": "usr",
+ "child": [
+  {
+   "name": "1.fs.practice",
+   "child": [
+    {
+     "name": "000.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "change_end.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "a.jscsrc",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "event.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "file.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "get-file-size.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "get-jpg-of-file - 副本.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "get-jpg-of-file.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "Global .js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "JSON.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "read_wtite_json.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "temp",
+     "child": [
+      {
+       "name": "fstest1510",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "json2.json",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "json.json",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "message.txt",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "my_file.txt",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "my_file1.txt",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "message2.txt",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "test.out.txt",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "test.txt",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "test2.txt",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "test1.txt",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      }
+     ],
+     "type": "folder",
+     "id": "111"
+    }
+   ],
+   "type": "folder",
+   "id": "111"
+  },
+  {
+   "name": "2.school-关于模块",
+   "child": [
+    {
+     "name": "index.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "klass.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "teacher.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "student.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    }
+   ],
+   "type": "folder",
+   "id": "111"
+  },
+  {
+   "name": "2.test.module.export",
+   "child": [
+    {
+     "name": "a.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "b.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    }
+   ],
+   "type": "folder",
+   "id": "111"
+  },
+  {
+   "name": "2.命令行",
+   "child": [
+    {
+     "name": "getUserInput.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "ming",
+     "child": [
+      {
+       "name": "ming.js",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "package.json",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      }
+     ],
+     "type": "folder",
+     "id": "111"
+    },
+    {
+     "name": "交互",
+     "child": [
+      {
+       "name": "width commander",
+       "child": [
+        {
+         "name": "test.js",
+         "child": [],
+         "type": "file",
+         "id": "111"
+        }
+       ],
+       "type": "folder",
+       "id": "111"
+      },
+      {
+       "name": "simple",
+       "child": [
+        {
+         "name": "prompt.js",
+         "child": [],
+         "type": "file",
+         "id": "111"
+        },
+        {
+         "name": "readme.txt",
+         "child": [],
+         "type": "file",
+         "id": "111"
+        },
+        {
+         "name": "test.js",
+         "child": [],
+         "type": "file",
+         "id": "111"
+        }
+       ],
+       "type": "folder",
+       "id": "111"
+      }
+     ],
+     "type": "folder",
+     "id": "111"
+    },
+    {
+     "name": "读取node.js命令行输入内容的小工具.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    }
+   ],
+   "type": "folder",
+   "id": "111"
+  },
+  {
+   "name": "3.iconfontSvg处理",
+   "child": [
+    {
+     "name": "dealSVG.async.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "dealSVG.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "dist",
+     "child": [
+      {
+       "name": "iconfont.js",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "demo_symbol.html",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      }
+     ],
+     "type": "folder",
+     "id": "111"
+    },
+    {
+     "name": "dist2",
+     "child": [
+      {
+       "name": "demo_symbol.html",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "iconfont.js",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      }
+     ],
+     "type": "folder",
+     "id": "111"
+    },
+    {
+     "name": "temp",
+     "child": [
+      {
+       "name": "lx-bill.svg",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "lx-business.svg",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      },
+      {
+       "name": "iconfont.temp.js",
+       "child": [],
+       "type": "file",
+       "id": "111"
+      }
+     ],
+     "type": "folder",
+     "id": "111"
+    }
+   ],
+   "type": "folder",
+   "id": "111"
+  },
+  {
+   "name": "5.创建服务器",
+   "child": [
+    {
+     "name": "index.html",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "mini-server-1.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "mini-server.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    }
+   ],
+   "type": "folder",
+   "id": "111"
+  },
+  {
+   "name": "4.书签xml解析",
+   "child": [
+    {
+     "name": "bookmark.xml",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "index.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "urlOut.html",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    }
+   ],
+   "type": "folder",
+   "id": "111"
+  },
+  {
+   "name": "6.tree",
+   "child": [
+    {
+     "name": "index.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "index.2.js",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "test.json",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    },
+    {
+     "name": "test1.json",
+     "child": [],
+     "type": "file",
+     "id": "111"
+    }
+   ],
+   "type": "folder",
+   "id": "111"
+  },
+  {
+   "name": "rw",
+   "child": [],
+   "type": "folder",
+   "id": "111"
+  }
+ ],
+ "type": "folder",
+ "id": "111"
+}

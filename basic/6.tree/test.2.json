@@ -1,0 +1,49 @@
+{
+ "name": "6.tree",
+ "fullPath": "D:\\01\\practice\\2.node\\test.min\\6.tree",
+ "parent": "",
+ "child": [
+  {
+   "name": "index.js",
+   "fullPath": "D:\\01\\practice\\2.node\\test.min\\6.tree\\index.js",
+   "parent": "",
+   "child": [],
+   "type": "file",
+   "id": "9e899e5d-693c-4ffd-90eb-e5cc57409508"
+  },
+  {
+   "name": "index.2.js",
+   "fullPath": "D:\\01\\practice\\2.node\\test.min\\6.tree\\index.2.js",
+   "parent": "",
+   "child": [],
+   "type": "file",
+   "id": "42d75e4d-4336-4b3f-a32f-7665091dcb31"
+  },
+  {
+   "name": "test.2.json",
+   "fullPath": "D:\\01\\practice\\2.node\\test.min\\6.tree\\test.2.json",
+   "parent": "",
+   "child": [],
+   "type": "file",
+   "id": "9d171e93-58a6-4ec6-8948-37645f5da941"
+  },
+  {
+   "name": "test.json",
+   "fullPath": "D:\\01\\practice\\2.node\\test.min\\6.tree\\test.json",
+   "parent": "",
+   "child": [],
+   "type": "file",
+   "id": "942c150e-cb81-4ad7-b25d-8cfcd8a946cf"
+  },
+  {
+   "name": "test1.json",
+   "fullPath": "D:\\01\\practice\\2.node\\test.min\\6.tree\\test1.json",
+   "parent": "",
+   "child": [],
+   "type": "file",
+   "id": "24667906-43ff-4d7b-a9ab-a610596acfa9"
+  }
+ ],
+ "type": "",
+ "id": "0d8324eb-dd45-408f-9443-12c2e7e0cb7d"
+}
