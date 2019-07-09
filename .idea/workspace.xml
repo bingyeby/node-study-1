@@ -14,91 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="000.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/1.practice.basic/000.js">
+      <file leaf-file-name="parse1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/parse1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.fs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/1.practice.basic/test.fs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readline.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/readline.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/test2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.buffer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/test2.buffer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="65" column="41" lean-forward="true" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="repository.properties" pinned="false" current-in-tab="false">
-        <entry file="file://D:/360极速浏览器下载/fodict2_public-win32-j/repo/010.bkqszl-j/repository.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../projects/syl.umi.test/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-114">
-              <caret line="9742" column="23" lean-forward="false" selection-start-line="9742" selection-start-column="23" selection-end-line="9742" selection-end-column="23" />
+            <state relative-caret-position="153">
+              <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -169,9 +89,12 @@
         <option value="$PROJECT_DIR$/basic/1.practice.basic/readline.js" />
         <option value="$PROJECT_DIR$/basic/7.解析字典数据/readline.js" />
         <option value="$PROJECT_DIR$/basic/7.解析字典数据/fileNameLowercase.js" />
-        <option value="$PROJECT_DIR$/basic/7.解析字典数据/imagesFileNameLowercase.js" />
         <option value="$PROJECT_DIR$/basic/7.解析字典数据/test2.js" />
         <option value="$PROJECT_DIR$/basic/7.解析字典数据/test2.buffer.js" />
+        <option value="$PROJECT_DIR$/basic/7.解析字典数据/parse2.utf8.js" />
+        <option value="$PROJECT_DIR$/basic/7.解析字典数据/parse1.js" />
+        <option value="$PROJECT_DIR$/basic/7.解析字典数据/parse2.buffer.js" />
+        <option value="$PROJECT_DIR$/basic/7.解析字典数据/imagesFileNameLowercase.js" />
       </list>
     </option>
   </component>
@@ -218,17 +141,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="2.node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.node" type="462c0819:PsiDirectoryNode" />
+              <item name="node-study-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-study-1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="2.node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.node" type="462c0819:PsiDirectoryNode" />
+              <item name="node-study-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-study-1" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="2.node" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2.node" type="462c0819:PsiDirectoryNode" />
+              <item name="node-study-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-study-1" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="7.解析字典数据" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -251,23 +174,24 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/360极速浏览器下载/fodict2_public-win32-j" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.1" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\01\practice\2.node" />
-      <recent name="D:\01\practice\2.node\mini-test\3.iconfontSvg处理" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\01\practice\2.node\basic\7.解析字典数据" />
       <recent name="D:\01\practice\2.node\test.min\6.tree" />
       <recent name="D:\01\practice\2.node\mini-test\3.iconfontSvg处理\test" />
       <recent name="D:\01\practice\2.node\mini-test\3.iconfontSvg处理" />
       <recent name="D:\01\practice\2.node\test\temp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project.01\node-study-1\basic\7.解析字典数据2" />
+      <recent name="D:\01\practice\2.node" />
+      <recent name="D:\01\practice\2.node\mini-test\3.iconfontSvg处理" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -284,10 +208,10 @@
   </component>
   <component name="RunManager" selected="Node.js.test2.buffer.js">
     <configuration name="imagesFileNameLowercase.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="imagesFileNameLowercase.js" working-dir="$PROJECT_DIR$/basic/7.解析字典数据" />
-    <configuration name="readline.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="readline.js" working-dir="$PROJECT_DIR$/basic/7.解析字典数据" />
+    <configuration name="readline.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/basic/7.解析字典数据/parse1.js" working-dir="$PROJECT_DIR$/basic/7.解析字典数据" />
     <configuration name="readline.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="readline.js" working-dir="$PROJECT_DIR$/basic/1.practice.basic" />
-    <configuration name="test2.buffer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test2.buffer.js" working-dir="$PROJECT_DIR$/basic/7.解析字典数据" />
-    <configuration name="test2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="test2.js" working-dir="$PROJECT_DIR$/basic/7.解析字典数据" />
+    <configuration name="test2.buffer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/basic/7.解析字典数据2/parse2.buffer.js" working-dir="$PROJECT_DIR$/basic/7.解析字典数据" />
+    <configuration name="test2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/basic/7.解析字典数据2/parse2.utf8.js" working-dir="$PROJECT_DIR$/basic/7.解析字典数据" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.readline.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.readline.js (1)" />
@@ -330,25 +254,26 @@
       <workItem from="1559742603328" duration="1967000" />
       <workItem from="1562414607432" duration="2795000" />
       <workItem from="1562474298885" duration="15394000" />
+      <workItem from="1562634020545" duration="4990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63835000" />
+    <option name="totallyTimeSpent" value="68825000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23279649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50627613" sideWeight="0.5023895" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="251" y="424" width="1668" height="303" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37406856" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="251" y="424" width="1668" height="303" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26943004" sideWeight="0.4976105" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2503726" sideWeight="0.4976105" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -387,13 +312,7 @@
     <entry file="file://$PROJECT_DIR$/test.min/6.tree/test.sync.json" />
     <entry file="file://$PROJECT_DIR$/test.min/6.tree/index.sync.js" />
     <entry file="file://$PROJECT_DIR$/test.min/6.tree/index.2.js" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.11.1/core-modules/path.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5700">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.11.1/core-modules/path.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/@types/node/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7698">
@@ -448,14 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/1.practice.basic/result.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-228">
@@ -470,63 +381,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/1.practice.basic/000.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/test.json" />
-    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/dict.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/fs-extra/lib/index.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.661.3069/fodict.ini" />
+    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据2/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fs-extra/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/1.practice.basic/test.fs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/imagesFileNameLowercase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.661.3069/fodict.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/readline.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
+        <state relative-caret-position="166702">
           <caret line="9742" column="23" lean-forward="false" selection-start-line="9742" selection-start-column="23" selection-end-line="9742" selection-end-column="23" />
           <folding />
         </state>
@@ -536,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,54 +403,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../projects/syl.umi.test/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/360极速浏览器下载/fodict2_public-win32-j/repo/010.bkqszl-j/repository.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/test2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/test.1.txt">
+    <entry file="file://D:/projects/syl.umi.test/.gitignore" />
+    <entry file="file://D:/360极速浏览器下载/fodict2_public-win32-j/repo/010.bkqszl-j/repository.properties" />
+    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据2/test.1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5472">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/fodict.bin">
+    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据2/fodict.bin">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/dict.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/test2.buffer.js">
+    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/imagesFileNameLowercase.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="65" column="41" lean-forward="true" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
+        <state relative-caret-position="85">
+          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据2/parse2.buffer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据2/parse2.utf8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="55" lean-forward="false" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/1.practice.basic/000.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/1.practice.basic/test.fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/7.解析字典数据/parse1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
           <folding />
         </state>
       </provider>
