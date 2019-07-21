@@ -14,7 +14,8 @@ let binTransfer = async (binFileSrc) => {
     content = Buffer.concat([content, fileChunk]);
     let entryTitleSize = content.slice(0, 4).readUIntBE(0, 4)
 
-    console.log(` entrySize`, entryTitleSize);// 比 entryContentSize 多1 ,多出头部的 ROOT
+    // console.log(` entrySize`, entryTitleSize);// 比 entryContentSize 多1 ,多出头部的 ROOT
+
     let titleList = _.map(Array(entryTitleSize), (n, i) => {
       let bug128 = content.slice(4 + 128 * i, 4 + 128 * (i + 1))
       let int1 = bug128.slice(0, 4).readUIntBE(0, 4)
@@ -22,58 +23,65 @@ let binTransfer = async (binFileSrc) => {
       let int3 = bug128.slice(8, 12).readUIntBE(0, 4)
       let int4 = bug128.slice(12, 16).readUIntBE(0, 4) // title的字节长度 (中文3 英文1)
       let titleStr = bug128.slice(16, 16 + int4).toString('utf-8')
-      console.log(`titleStr`,titleStr);
+      // console.log(`titleStr`,titleStr);
       return titleStr
     })
 
     let entryIndexIndex = 4 + 128 * entryTitleSize // indexList 初始位置
     let entryContentSize = content.slice(entryIndexIndex, entryIndexIndex + 4).readUIntBE(0, 4) // indexList.size
 
-    console.log(` entryContentSize`, entryContentSize);
+    // console.log(` entryContentSize`, entryContentSize); // 在单层结构中 entryContentSize + 1  = entryTitleSize  ; 在多层结构中 entryContentSize 一般值较小 计算处理如下较为复杂
+
     let contentIndex
-    if (entryContentSize + 1 === entryTitleSize) {// 不存在子层
+    let folderSize
+    if (entryContentSize + 1 === entryTitleSize) {// 不存在嵌套结构 一对一结构
       contentIndex = entryIndexIndex + 4 * entryContentSize + 4 // contentList 初始位置
-    } else { // 存在嵌套结构
-
+      folderSize = 1 // ROOT 一个
+    } else { // 存在嵌套结构 需要挑出空白文档
       let test = true
-
       let xxIndex = entryIndexIndex
       let xxSize
-
+      let xxSizeList = []
       do {
+        // x-----y------v====================
         xxSize = content.slice(xxIndex, xxIndex + 4).readUIntBE(0, 4)
         xxIndex = xxIndex + 4
         let contentStr = content.slice(xxIndex, xxIndex + 100).toString('utf-8') // 取100个进行测试
-        // console.log(`xxSize`, xxSize);
         // console.log(`contentStr`,contentStr);
         if (/[\u4e00-\u9fa5]/.test(contentStr)) {
-          console.log(`中文`);
+          // console.log(`中文`);
           test = false
           contentIndex = xxIndex - 4
         } else {
+          xxSizeList.push(xxSize)
           xxIndex = xxIndex + xxSize * 4
         }
         // console.log(`contentIndex`,contentIndex);
       } while (test)
-
+      // console.log(`binTransfer xxSizeList`, JSON.stringify(xxSizeList, null, '  '));// 标题的index
+      folderSize = _.size(xxSizeList)
     }
-    let contentList = _.map(Array(entryTitleSize - 1), (n, i) => {
-      let contentSize = content.slice(contentIndex, contentIndex + 4).readUIntBE(0, 4)
+
+    // 获取最终数据
+    let contentList = _.map(Array(entryTitleSize - folderSize), (n, i) => {
+      let contentItemLength = content.slice(contentIndex, contentIndex + 4).readUIntBE(0, 4)
       contentIndex = contentIndex + 4
-      let contentStr = content.slice(contentIndex, contentIndex + contentSize).toString('utf-8')
-      contentIndex = contentIndex + contentSize
+      let contentStr = content.slice(contentIndex, contentIndex + contentItemLength).toString('utf-8')
+      contentIndex = contentIndex + contentItemLength
       return contentStr
     })
     content = null
+    console.log('titleList contentList', _.size(titleList.slice(folderSize)), _.size(contentList));
     return {
-      titleList: titleList.slice(1),
+      titleList: titleList.slice(folderSize),
       contentList,
     }
+
   } catch (e) {
     console.log(`e`, e);
   }
 }
 
-// binTransfer('D:\\360极速浏览器下载\\fodict2_public-win32-j\\repo\\001.dfb-j\\fodict.bin')
-binTransfer('D:\\360极速浏览器下载\\fodict2_public-win32-j\\repo\\011.fjrwz-j\\fodict.bin')
+// binTransfer(path.join(__dirname, '单层.bin'))
+// binTransfer(path.join(__dirname, '多层.bin'))
 module.exports = binTransfer
